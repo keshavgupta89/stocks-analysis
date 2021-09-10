@@ -17,13 +17,13 @@ We would suggest Steve to invest the money in ENPH which gave a return of 82% in
 1)It takes time and money for improving/ refactoring a code.
 2)It might altogther not work and have system failure or give incomplete analyses, if not done properly.
 ## The advantages and disadvantages of the original and refactored VBA script
-###The advantage of the original VBA script
+### The advantage of the original VBA script
 The advantage of the original VBA script is that it becomes the base/platform on which refactoring can be done.
 It gives us the first glance of the analyses and we can redirect our course of action, on immediate basis with that analysis.
-###The disadvantage of the original VBA script
+### The disadvantage of the original VBA script
 The biggest disadvantage of the original VBA script is that it takes a lot of time to run the analyses since it has not been refined.
-###The advantage of the refactored VBA script
+### The advantage of the refactored VBA script
 The advantage of the refactored VBA script is that it is a more effecient code taking lesser amount of time to analyse the same data. It can be updated to work with additional data.
 In the above analyses we have refactored the VBA script such that, the code which was running 12 times through a 3000 rows of data now runs only once and take only 20% time of the original code.
-###The disadvantage of the refactored VBA script
+### The disadvantage of the refactored VBA script
 The disadvantage of the refactored VBA script is that it takes more time and effort of developer to refactor the code. There can be lot of bugs and error they might face during refactoring.
