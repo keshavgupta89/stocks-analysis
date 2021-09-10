@@ -9,11 +9,11 @@ After analysing the data, we have seen DQ stock was the least performing stock a
 We would suggest Steve to invest the money in ENPH which gave a return of 82% in 2018 and 130% in 2017. It has been performing good consistently which you can see by the following tables.
 ![image](https://user-images.githubusercontent.com/90114686/132856457-6b614c90-ea43-48b2-bbc1-1121525ed560.png)
 ## The advantages and disadvantages of refactoring code in general 
-###The advantage of the refactoring code
+### The advantage of the refactoring code
 1)Generally, refractoring is done by a different person than the person who has written the original code. Therefore its seen by a fresh set of eyes, which might find faults in code and improve it.
 2)Code can get obsolete, because data might have changed. Therefore by refactoring code, we can have the data analyses updated
 3)Most importantly we make the code more proficient in taking lesser time and adapting to changes in data.
-###The disadvantage of the refactoring code
+### The disadvantage of the refactoring code
 1)It takes time and money for improving/ refactoring a code.
 2)It might altogther not work and have system failure or give incomplete analyses, if not done properly.
 ## The advantages and disadvantages of the original and refactored VBA script
